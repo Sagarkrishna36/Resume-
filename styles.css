@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+.resume {
+    max-width: 800px;
+    margin: 0 auto;
+    background: white;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2em;
+}
+
+header p {
+    margin: 5px 0;
+    color: #777;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+section h2 {
+    background: #00796B;
+    color: white;
+    padding: 10px;
+    margin: 0 -20px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    padding: 5px 0;
+}
+
+.education-item, .project-item {
+    margin-bottom: 15px;
+}
+
+.education-item h3, .project-item h3 {
+    margin: 0;
+    font-size: 1.2em;
+}
+
+.education-item h4 {
+    margin: 5px 0;
+    font-weight: normal;
+    color: #555;
+}
+
+.education-item p, .project-item p {
+    margin: 5px 0;
+    color: #777;
+}
